@@ -1,4 +1,5 @@
 🚀 Migration Proposal: Traditional VM + RHEL → Kubernetes on Container-Optimized OS
+
 📌 Executive Summary
 
 This document proposes migrating from:
