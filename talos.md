@@ -5,8 +5,8 @@
 This document proposes migrating from:
 
 🖥️ Hypervisor + VM infrastructure
-🧾 Red Hat Enterprise Linux (RHEL) on each VM
-🔧 Mixed operational model
+    🧾 Red Hat Enterprise Linux (RHEL) on each VM
+        🔧 Mixed operational model
 
 To:
 
