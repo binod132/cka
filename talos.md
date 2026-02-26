@@ -10,12 +10,12 @@ This document proposes migrating from:
 
 To:
 
-🖥️ Bare metal or lightweight nodes. 
+--> 🖥️ Bare metal or lightweight nodes. 
 
     --> ☸️ Kubernetes-first architecture. 
 
         --> 🛡️ Container-optimized OS such as Talos Linux. 
-        
+
             --> 📦 Fully containerized workloads on Kubernetes. 
 
 🎯 Target Stack
