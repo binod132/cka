@@ -2,11 +2,15 @@
 
 📌 Executive Summary
 
-This document proposes migrating from:
+This document proposes migrating 
+from:
 
-🖥️ Hypervisor + VM infrastructure
-    🧾 Red Hat Enterprise Linux (RHEL) on each VM
-        🔧 Mixed operational model
+    --> 🖥️ Hypervisor + VM infrastructure
+
+        --> 🧾 Red Hat Enterprise Linux (RHEL) on each VM
+
+            --> 🔧 Mixed operational model
+                --> Kubernetes, Redis, Kafka, Minio etc
 
 To:
 
